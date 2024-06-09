@@ -40,6 +40,8 @@ While the current iteration focuses on project discovery, we plan to integrate f
 
 2. Tokenized Incentives: We might launch our own token based after seeing this turn into a profitable business.
 
+![Slide 16_9 - 5 (1)](https://github.com/Dynomin/Solana-Directive/assets/93094896/15cee532-22b1-480f-ba4e-ec0970a2f280)
+
 This project has the potential to be a valuable resource for both project creators and investors within the Solana ecosystem. By promoting transparency and fostering a supportive community, we believe this project can contribute significantly to the growth of both BONK and the Solana Ecosystem.
 
 # Current Market Landscape
