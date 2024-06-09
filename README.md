@@ -1,6 +1,7 @@
 # Solana Directive
 
 This project aims to be a central hub for discovering and showcasing new projects within the Solana ecosystem.
+
 Project Link: https://solana-directive.gitbook.io/home/
 
 ![Slide 16_9 - 1 (4)](https://github.com/Dynomin/Solana-Directive/assets/93094896/8be02fb7-7021-4a92-95a1-0b548a1a7175)
