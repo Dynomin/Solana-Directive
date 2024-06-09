@@ -1,1 +1,1 @@
-# Solana-Directive
+# Solana Directive
