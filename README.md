@@ -1,1 +1,1 @@
-# Solana-Money-Maker
+# Solana-Directive
