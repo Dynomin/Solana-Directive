@@ -23,7 +23,7 @@ This project has a first-mover advantage as there are currently no similar platf
 
 2. Profit Sharing (Future): A portion of profits generated from investment opportunities will be used for:
 
-    a. Converting 10% of revenue in $BONK and then burn it.
+    a. Converting 10% of revenue in $BONK and then burning it.
 
     b. Distributing 15% back to the community through marketing promotions.
 
